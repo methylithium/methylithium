@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @methylithium
 - 👀 I’m interested in bioinformatics 
-- 🌱 I’m currently learning python, C and C++
+- 🌱 I’m currently learning python, C and Rust
 - 💞️ I’m looking to collaborate on bioinformatics 
 - 📫 How to reach me linktr.ee/methylithium
 
